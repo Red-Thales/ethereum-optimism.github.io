@@ -1199,11 +1199,33 @@
       "extensions": {
         "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
       }
+    },
+    {
+      "chainId": 1,
+      "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd",
+      "name": "Wrapped UST Token",
+      "symbol": "UST",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/logos/UST.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x99C9fc46f92E8a1c0deC1b1747d010903E884bE1"
+      }
+    },
+    {
+      "chainId": 10,
+      "address": "0x3e23ca01be87c8c039e140fc16b2d5664c25f57f",
+      "name": "Wrapped UST Token",
+      "symbol": "UST",
+      "decimals": 18,
+      "logoURI": "https://ethereum-optimism.github.io/logos/UST.png",
+      "extensions": {
+        "optimismBridgeAddress": "0x4200000000000000000000000000000000000010"
+      }
     }
   ],
   "version": {
     "major": 4,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   }
 }
